@@ -1,0 +1,12 @@
+First Step : Install Docker
+
+Step 2: Create Container Registry on the Azure Portal
+
+Step 3: Push Image to Registry , For that we need to install Azure Cli
+
+https://docs.microsoft.com/en-us/cli/azure/install-azure-cli
+
+
+Step 3: install Azure Cli
+
+Step 4: 
